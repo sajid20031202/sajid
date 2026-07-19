@@ -9,10 +9,10 @@
 ## 🚀 About Me
 
 - 💻 Passionate Full-Stack Developer
-- 🌱 Currently learning Cloud, DevOps & AI
+- 🌱 Currently learning GenAI
 - 🚀 Love building scalable web applications
 - 🤝 Open to collaboration on exciting projects
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **sajidBCA2003-email@example.com**
 
 ---
 
@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,python,c,cpp,git,github,docker,linux,vscode,aws,firebase,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,,react,mysql,,java,python,git,github,vscode,eclipse,springboot,jdbc,hibernate,advancejava" />
 
 </p>
 
@@ -46,10 +46,7 @@
 
 # 🚀 Current Projects
 
-- 🔹 AI Powered Web Application
-- 🔹 Full Stack MERN Dashboard
-- 🔹 DevOps Automation Scripts
-- 🔹 Portfolio Website v2
+- 🔹 fortend taskman
 
 ---
 
@@ -75,7 +72,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,docker,npm,vercel,netlify,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,npm" />
 
 </p>
 
