@@ -10,9 +10,7 @@
 
 - 💻 Passionate Full-Stack Developer
 - 🌱 Currently learning GenAI
-- 🚀 Love building scalable web applications
-- 🤝 Open to collaboration on exciting projects
-- 📫 Reach me: **sajidBCA2003-email@example.com**
+- 📫 Reach me: **sajidBCA2003@gmail.com**
 
 ---
 
