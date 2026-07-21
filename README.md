@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,,react,mysql,,java,python,git,github,vscode,eclipse,springboot,jdbc,hibernate,advancejava" />
+<img src="https://skillicons.dev/icons?i=html,css,js,,react,mysql,,java,python,git,github,vscode,eclipse,springboot,jdbc,hibernate,advancejava,postman" />
 
 </p>
 
