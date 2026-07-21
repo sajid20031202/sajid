@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,npm,postman" />
 
 </p>
 
