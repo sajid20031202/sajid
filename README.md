@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/yourusername">
-<img src="https://github.com/sajid20031202/sajid"/>
+<img src="https://github.com/sajid20031202"/>
 </a>
 
 <a href="https://portfolio.com">
